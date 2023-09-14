@@ -1,0 +1,2 @@
+# TypeScript
+Content about typeScript
